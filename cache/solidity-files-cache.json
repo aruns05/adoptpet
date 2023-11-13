@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/arunsridhar/Desktop/Course/Code/Solidity/course/adopt-pet-hardhat/Contracts/PetAdoption.sol": {
+      "lastModificationDate": 1698178467671,
+      "contentHash": "0282781a57ce61b14c1ec169d3b1fbc1",
+      "sourceName": "Contracts/PetAdoption.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "PetAdoption"
+      ]
+    }
+  }
+}
